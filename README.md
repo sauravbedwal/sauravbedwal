@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurav Bedwal</h1>
 <h3 align="center">Crafting captivating digital experiences through front-end magic, one line of code at a time ✨🚀</h3>
 
-<p align="left"> <a href="https://twitter.com/clever_cactus_" target="blank"><img src="https://img.shields.io/twitter/follow/clever_cactus_?logo=twitter&style=for-the-badge" alt="clever_cactus_" /></a> </p>
-
 - 🔭 I’m currently working on [watchBox](https://watchbox-ott-tv.netlify.app/)
 
 - 🛒 Previously orked on [Amazon Clone](http://amazon-clone-saurav.netlify.app/)
